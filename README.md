@@ -119,7 +119,7 @@ erDiagram
 ## Структура репозитория
 
 ```
-olist-capstone/
+olist/
 ├── DataGroup_Capstone_Dana_Toktargaliyeva.ipynb   # весь код: SQL → EDA → таргет → модели → выводы
 ├── DataGroup_Capstone_Dana_Toktargaliyeva.pdf     # презентация для защиты
 ├── requirements.txt                               # зависимости
@@ -131,8 +131,8 @@ olist-capstone/
 
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/danatoktargaliyeva/olist-capstone.git
-   cd olist-capstone
+   git clone https://github.com/danatoktargaliyeva/olist.git
+   cd olist
    ```
 2. Установить зависимости (Python 3.10+):
    ```bash
