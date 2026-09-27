@@ -1,0 +1,22 @@
+# Датасет и база данных (тяжёлые файлы, не храним в git)
+*.csv
+*.zip
+*.db
+olist.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Временные файлы Office
+~$*
